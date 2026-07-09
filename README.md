@@ -1,12 +1,12 @@
 <div align="center">
 
-# 👋 Hi, I'm Muhammad Talha
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Muhammad Talha
 
 ### Software Engineer • AI Engineer • Full Stack Developer • .NET Backend Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Software+Engineer;AI+Engineer;Full+Stack+Developer;Machine+Learning+Developer;Agentic+AI+Developer;ASP.NET+Core+Developer;React+Developer;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Software+Engineer;AI+Engineer;Full+Stack+Developer;Machine+Learning+Developer;Agentic+AI+Developer;ASP.NET+Core+Developer;React+Developer;Always+Learning+New+Technologies" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212744275-2d2aa7b7-3d80-4d95-b7b4-9d9f59f09e3b.gif" width="100%" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
 
@@ -14,387 +14,356 @@
 
 ## 🚀 About Me
 
-I'm **Muhammad Talha**, a Software Engineering student at **Punjab University College of Information Technology (PUCIT), Lahore**.
+I'm **Muhammad Talha**, a passionate Software Engineering student at **Punjab University College of Information Technology (PUCIT), Lahore**. I thrive at the intersection of **Artificial Intelligence**, **Machine Learning**, and **Full Stack Development**, building intelligent systems that solve real-world problems.
 
-I am passionate about building intelligent software systems by combining **Artificial Intelligence**, **Machine Learning**, **Agentic AI**, and **Modern Full Stack Development**.
+### 🎯 My Mission
+> "Building intelligent software through AI, scalable engineering, and continuous innovation"
 
-My interests include:
-
-- Artificial Intelligence
-- Machine Learning
-- Agentic AI Systems
-- Full Stack Development
-- .NET Backend Development
-- Cloud Computing
-- DevOps
-- System Design
-- Software Architecture
-
-I enjoy transforming complex problems into scalable software solutions and continuously learning cutting-edge technologies.
+### 💡 What Drives Me
+- Crafting **AI-powered solutions** that make a difference
+- Mastering **Agentic AI** and autonomous systems
+- Building **scalable, production-ready** applications
+- Contributing to **open source** and the developer community
+- Continuous learning and **staying ahead** of technology trends
 
 ---
 
-## 🎯 Current Focus
+## 🛠️ Technical Expertise
 
-- AI Career Intelligence Platform
-- Agentic AI Applications
-- LangChain & LangGraph
-- Machine Learning Projects
-- Retrieval Augmented Generation (RAG)
-- ASP.NET Core
-- Clean Architecture
-- Docker & Cloud Deployment
-- Microservices Architecture
-
----
-
-# 💻 Tech Stack
-
-## Languages
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=cs,cpp,c,python,js,ts,kotlin" />
+### 💻 Programming Languages
+<p align="center">
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
 </p>
 
-## Frontend
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nextjs" />
+### 🎨 Frontend Development
+<p align="center">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
 </p>
 
-## Backend
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=dotnet,nodejs,express" />
+### ⚙️ Backend Development
+<p align="center">
+<img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 </p>
 
-## Databases
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+### 🗄️ Databases
+<p align="center">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
-## DevOps & Cloud
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,gcp" />
+### ☁️ DevOps & Cloud
+<p align="center">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
 </p>
 
-## Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,figma,postman" />
+### 🛠️ Tools & Platforms
+<p align="center">
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
 ---
 
-# 🤖 Artificial Intelligence & Machine Learning
+## 🤖 Artificial Intelligence & Machine Learning
 
-## Large Language Models (LLMs)
-
-- OpenAI GPT Models
-- Google Gemini
+### 🧠 Large Language Models (LLMs)
+- OpenAI GPT-4, GPT-3.5 Turbo
+- Google Gemini Pro
 - Claude AI
 - Hugging Face Transformers
-- AI Chatbots
-- Prompt Engineering
+- Custom Fine-tuning
+- Prompt Engineering & Optimization
 
----
+### 🤖 Agentic AI
+- **Multi-Agent Systems**
+- **Autonomous AI Agents**
+- **AI Workflows & Orchestration**
+- **Tool & Function Calling**
+- **Agent Collaboration Patterns**
+- **Decision-Making Systems**
 
-## Agentic AI
+### 🔗 LangChain Ecosystem
+- **LangChain Core** & Expression Language
+- **LangGraph** for Stateful Agents
+- **RAG Pipelines** & Vector Search
+- **Memory Management** & Persistence
+- **Retrieval Systems** & Knowledge Bases
+- **Chain-of-Thought** & Reasoning
 
-- Autonomous AI Agents
-- Multi-Agent Systems
-- AI Workflows
-- Tool Calling
-- Function Calling
-- Agent Orchestration
-- AI Automation Systems
+### ⚡ AI Frameworks
+- **CrewAI** - Multi-agent collaboration
+- **AutoGen** - Conversational AI agents
+- **Semantic Kernel** - Microsoft's AI framework
+- **OpenAI SDK** & Function Calling
+- **MCP** (Model Context Protocol)
 
----
+### 📊 Machine Learning
+- Supervised & Unsupervised Learning
+- Classification & Regression
+- Clustering & Dimensionality Reduction
+- Feature Engineering & Selection
+- Model Evaluation & Validation
+- Ensemble Methods
 
-## LangChain Ecosystem
-
-- LangChain
-- LangGraph
-- RAG Pipelines
-- Vector Search
-- Memory Management
-- Retrieval Systems
-- Knowledge Bases
-
----
-
-## AI Frameworks
-
-- CrewAI
-- AutoGen
-- Semantic Kernel
-- OpenAI SDK
-- MCP (Model Context Protocol)
-
----
-
-## Machine Learning
-
-- Supervised Learning
-- Unsupervised Learning
-- Classification
-- Regression
-- Clustering
-- Recommendation Systems
-- Feature Engineering
-- Model Evaluation
-
----
-
-## Data Science
-
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
+### 📈 Data Science
+- Pandas & NumPy
+- Matplotlib & Seaborn
 - Scikit-Learn
-- Data Cleaning
-- Data Visualization
-- Exploratory Data Analysis
+- Data Cleaning & Preprocessing
+- EDA & Visualization
+- Statistical Analysis
 
----
-
-## Natural Language Processing (NLP)
-
-- Text Classification
+### 🔤 Natural Language Processing (NLP)
+- Text Classification & Categorization
 - Sentiment Analysis
-- Semantic Search
 - Named Entity Recognition
-- Text Processing
-- Embeddings
-- Vector Databases
+- Semantic Search & Embeddings
+- Text Generation & Summarization
+- Vector Databases & Retrieval
 
----
-
-## MLOps
-
-- Model Deployment
-- API Deployment
+### 🚀 MLOps
+- Model Deployment & Serving
+- REST API Integration
 - Dockerized ML Applications
-- Model Monitoring
+- Model Monitoring & Logging
 - Experiment Tracking
 
 ---
 
-# 🚀 Featured Projects
+## 📁 Featured Projects
 
-## 🤖 AI Career Intelligence Platform
+### 🧠 AI Career Intelligence Platform
+> *AI-powered career guidance system for students*
 
-An AI-powered platform that helps students identify skill gaps, receive personalized career recommendations, and build future-ready learning roadmaps.
+An intelligent platform that analyzes student profiles, identifies skill gaps, and generates personalized career roadmaps using advanced AI and NLP.
 
-### Features
+**Key Features:**
+- 📄 Resume & Profile Analysis
+- 🎯 Skill Gap Detection
+- 🧭 Career Recommendations
+- 📚 Learning Path Generation
+- 💬 AI Chat Assistant
+- 📊 Market Trend Analysis
+- 🔮 Future Job Prediction
 
-- Resume Analysis
-- Skill Gap Detection
-- Career Recommendations
-- Learning Path Generation
-- AI Chat Assistant
-- Future Job Prediction
-- Market Trend Analysis
-
-### Technologies
-
-```text
-Python
-Machine Learning
-NLP
-OpenAI API
-React
-Flask
-MySQL
+**Tech Stack:**
+```
+Python | Machine Learning | NLP | OpenAI API | React | Flask | MySQL | LangChain
 ```
 
 ---
 
-## 🍔 QuickFood
+### 🍔 QuickFood - Food Delivery Platform
+> *Full-featured food ordering and delivery system*
 
-Food Delivery Platform developed using ASP.NET MVC.
+**Key Features:**
+- 🔐 Secure Authentication & Authorization
+- 🛒 Cart Management System
+- 📦 Order Tracking & History
+- 🍽️ Restaurant Management
+- 📊 Admin Dashboard
+- 💳 Payment Integration
 
-### Features
-
-- Authentication & Authorization
-- Cart Management
-- Order Tracking
-- Admin Dashboard
-- SQL Server Database
-
----
-
-## 👕 Trendora
-
-Modern E-Commerce Platform built with ASP.NET MVC.
-
-### Features
-
-- Product Catalog
-- Shopping Cart
-- User Authentication
-- Order Management
-- Admin Panel
+**Tech Stack:**
+```
+ASP.NET MVC | C# | SQL Server | Bootstrap | Entity Framework
+```
 
 ---
 
-## 📚 Library Management System
+### 👕 Trendora - E-Commerce Platform
+> *Modern online shopping experience*
 
-Backend Application developed using Node.js & MySQL.
+**Key Features:**
+- 🏷️ Product Catalog & Categories
+- 🛍️ Smart Shopping Cart
+- 👤 User Profiles & Authentication
+- 📦 Order Management
+- 🎯 Personalized Recommendations
+- 📈 Admin Panel & Analytics
 
-### Features
-
-- Book Management
-- Issue/Return Books
-- User Management
-- REST APIs
-
----
-
-## 🏫 School Management System
-
-Full-featured School Administration System.
-
-### Features
-
-- Student Records
-- Attendance Management
-- Fee Management
-- Result Management
+**Tech Stack:**
+```
+ASP.NET MVC | C# | SQL Server | Bootstrap | jQuery
+```
 
 ---
 
-## 🤖 AI Chatbot
+### 📚 Library Management System
+> *Efficient library operations backend*
 
-Intelligent chatbot powered by Large Language Models.
+**Key Features:**
+- 📖 Book Catalog Management
+- 🔄 Issue/Return System
+- 👥 User Management
+- 📊 Analytics Dashboard
+- 🔍 Advanced Search
+- 📱 REST APIs
 
-### Technologies
-
-- OpenAI API
-- LangChain
-- Vector Search
-- Prompt Engineering
+**Tech Stack:**
+```
+Node.js | Express | MySQL | JWT Authentication | REST APIs
+```
 
 ---
 
-# 📈 GitHub Analytics
+### 🏫 School Management System
+> *Comprehensive educational administration platform*
+
+**Key Features:**
+- 👨‍🎓 Student Records Management
+- 📝 Attendance System
+- 💰 Fee Management
+- 📊 Result Processing
+- 👨‍🏫 Staff Management
+- 📅 Timetable Generation
+
+**Tech Stack:**
+```
+ASP.NET MVC | C# | SQL Server | Bootstrap | Entity Framework
+```
+
+---
+
+### 💬 AI Chatbot
+> *Intelligent conversational AI assistant*
+
+**Key Features:**
+- 🧠 Advanced LLM Integration
+- 🔍 Context-Aware Responses
+- 💾 Memory Management
+- 🎯 Domain-Specific Knowledge
+- 🔗 Multi-Source Retrieval
+
+**Tech Stack:**
+```
+Python | OpenAI API | LangChain | Vector Search | React | FastAPI
+```
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=talhaleet&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhaleet&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=talhaleet&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=talhaleet&theme=tokyonight"/>
-
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=talhaleet&theme=tokyonight"/>
 </p>
 
 ---
 
-# 📊 Most Used Languages
+## 🏆 Achievements & Contributions
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhaleet&layout=compact&theme=tokyonight"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=talhaleet&theme=tokyonight&row=2&column=4&margin-w=15&margin-h=15"/>
 </p>
 
 ---
 
-# 🏆 GitHub Achievements
+## 🌱 Current Learning Journey
+
+### 🎯 2026 Focus Areas
+
+| Domain | Technologies |
+|--------|--------------|
+| **Agentic AI** | LangGraph, CrewAI, AutoGen, Semantic Kernel |
+| **Cloud Computing** | Azure AI Services, Kubernetes, Microservices |
+| **Advanced Backend** | Clean Architecture, DDD, CQRS, Event Sourcing |
+| **Full Stack** | Next.js 15, React 19, TypeScript 5 |
+| **MLOps** | Model Deployment, Monitoring, CI/CD for ML |
+
+---
+
+## 📜 Certifications & Achievements
+
+- 🎓 **Software Engineering** - PUCIT, Lahore
+- ☁️ **Cloud & System Administration** - Internship Program
+- 🤖 **AI & Machine Learning** - Continuous Learning Path
+- 💻 **Web Development** - Full Stack Certifications
+- 📱 **Mobile Development** - Kotlin & Android Basics
+
+---
+
+## 🤝 Let's Connect
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=talhaleet&theme=tokyonight&row=1&column=7"/>
-
-</p>
-
----
-
-# 🌱 Currently Learning
-
-- Agentic AI
-- LangGraph
-- CrewAI
-- AutoGen
-- Semantic Kernel
-- Azure AI
-- Kubernetes
-- Microservices
-- Advanced ASP.NET Core
-- AI Automation Systems
-
----
-
-# 📜 Certifications
-
-- Software Engineering
-- Cloud & System Administration Internship
-- AI & Machine Learning Learning Path
-- Web Development Certifications
-
----
-
-# 🌍 Connect With Me
-
-<p align="left">
-
 <a href="https://github.com/talhaleet">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 <a href="https://linkedin.com/in/talhaleet">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:talhaleet@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://mtalhaportflio.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-# 🔥 Contribution Snake
+## 💡 Developer Philosophy
 
-<p align="center">
+> **"Building intelligent software that solves real-world problems through Artificial Intelligence, scalable engineering, and continuous innovation."**
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# 💡 Developer Philosophy
-
-> "Building intelligent software that solves real-world problems through Artificial Intelligence, scalable engineering, and continuous innovation."
+### 🌟 Core Values
+- ✨ **Innovation First** - Embracing new technologies
+- 🔍 **Quality Focus** - Clean, maintainable code
+- 🤝 **Collaboration** - Open source & community
+- 📚 **Continuous Learning** - Never stop growing
+- 🎯 **Impact-Driven** - Solutions that matter
 
 ---
 
-# 🎯 2026 Goals
+## 🎯 2026 Goals & Vision
 
-- Build Production Ready AI Applications
-- Master Agentic AI Development
-- Learn Advanced Machine Learning
-- Contribute to Open Source Projects
-- Master ASP.NET Core & Clean Architecture
-- Build SaaS Products
-- Learn Kubernetes & Cloud Native Development
-- Become an AI Software Engineer
+- 🚀 Build Production-Ready AI Applications
+- 🤖 Master Agentic AI & Autonomous Systems
+- 📚 Contribute to Open Source Projects
+- 🏗️ Learn Advanced System Architecture
+- ☁️ Become Cloud-Native Developer
+- 🎓 Mentor & Teach Others
+- 💼 Launch AI-Powered SaaS Products
+- 🌍 Build Global Developer Network
 
 ---
 
 <div align="center">
 
+---
+
 ### ⭐ Thanks For Visiting My Profile
 
-<img src="https://komarev.com/ghpvc/?username=talhaleet&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=talhaleet&style=for-the-badge&color=00C2FF"/>
 
-### 🚀 Code • Learn • Build • Repeat
+### 🚀 Code • Learn • Build • Innovate • Repeat
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+
+**"The future is built by those who dare to innovate"**
 
 </div>
