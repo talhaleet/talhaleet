@@ -275,29 +275,6 @@ Python | OpenAI API | LangChain | Vector Search | React | FastAPI
 
 ---
 
-## 🌱 Current Learning Journey
-
-### 🎯 2026 Focus Areas
-
-| Domain | Technologies |
-|--------|--------------|
-| **Agentic AI** | LangGraph, CrewAI, AutoGen, Semantic Kernel |
-| **Cloud Computing** | Azure AI Services, Kubernetes, Microservices |
-| **Advanced Backend** | Clean Architecture, DDD, CQRS, Event Sourcing |
-| **Full Stack** | Next.js 15, React 19, TypeScript 5 |
-| **MLOps** | Model Deployment, Monitoring, CI/CD for ML |
-
----
-
-## 📜 Certifications & Achievements
-
-- 🎓 **Software Engineering** - PUCIT, Lahore
-- ☁️ **Cloud & System Administration** - Internship Program
-- 🤖 **AI & Machine Learning** - Continuous Learning Path
-- 💻 **Web Development** - Full Stack Certifications
-- 📱 **Mobile Development** - Kotlin & Android Basics
-
----
 
 ## 🤝 Let's Connect
 
@@ -319,31 +296,9 @@ Python | OpenAI API | LangChain | Vector Search | React | FastAPI
 
 ---
 
-## 💡 Developer Philosophy
 
-> **"Building intelligent software that solves real-world problems through Artificial Intelligence, scalable engineering, and continuous innovation."**
 
-### 🌟 Core Values
-- ✨ **Innovation First** - Embracing new technologies
-- 🔍 **Quality Focus** - Clean, maintainable code
-- 🤝 **Collaboration** - Open source & community
-- 📚 **Continuous Learning** - Never stop growing
-- 🎯 **Impact-Driven** - Solutions that matter
 
----
-
-## 🎯 2026 Goals & Vision
-
-- 🚀 Build Production-Ready AI Applications
-- 🤖 Master Agentic AI & Autonomous Systems
-- 📚 Contribute to Open Source Projects
-- 🏗️ Learn Advanced System Architecture
-- ☁️ Become Cloud-Native Developer
-- 🎓 Mentor & Teach Others
-- 💼 Launch AI-Powered SaaS Products
-- 🌍 Build Global Developer Network
-
----
 
 <div align="center">
 
