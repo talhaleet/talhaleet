@@ -261,19 +261,7 @@ Python | OpenAI API | LangChain | Vector Search | React | FastAPI
 
 ---
 
-## 📊 GitHub Analytics
 
-
-
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=talhaleet&theme=tokyonight"/>
-</p>
-
----
-
-
-
----
 
 
 ## 🤝 Let's Connect
