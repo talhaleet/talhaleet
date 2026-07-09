@@ -298,8 +298,6 @@ Python | OpenAI API | LangChain | Vector Search | React | FastAPI
 
 ### 🚀 Code • Learn • Build • Innovate • Repeat
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
-
 **"The future is built by those who dare to innovate"**
 
 </div>
