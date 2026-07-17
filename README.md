@@ -32,6 +32,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talhaleet)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/talhaleet)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:talhaleet@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-EA4335?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://www.dropbox.com/scl/fi/bpphqc6cei4au3ybqkqk9b/Muhammad_Talha_Resume.pdf?rlkey=lois5jwivujtc0iiodag9zkqs&st=xjz241fn&dl=0)
 
 </div>
 
