@@ -278,35 +278,6 @@ ASP.NET MVC application handling student, staff, and academic record management.
 </div>
 
 ---
-
-
-## 🎯 Current Focus
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**🔨 Currently Building**
-- SkillNavigator AI
-
-</td>
-<td valign="top" width="50%">
-
-**📖 Currently Learning**
-- Advanced Agentic AI
-- Multi-Agent Systems
-- LLM Evaluation
-- Docker
-- MLOps
-
-</td>
-</tr>
-</table>
-
----
-
-
-
 <div align="center">
 
 ### 
