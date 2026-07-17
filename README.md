@@ -1,303 +1,379 @@
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Muhammad Talha
+<!-- 🖼️ BANNER IMAGE — replace with your own banner -->
+<img src="assets/banner.png" alt="Muhammad Talha - Full Stack AI Engineer Banner" width="100%" />
 
-### Software Engineer • AI Engineer • Full Stack Developer • .NET Backend Developer
+<br />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Software+Engineer;AI+Engineer;Full+Stack+Developer;Machine+Learning+Developer;Agentic+AI+Developer;ASP.NET+Core+Developer;React+Developer;Always+Learning+New+Technologies" />
+# Hi 👋 I'm Muhammad Talha
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Full+Stack+AI+Engineer;AI+Engineer;Machine+Learning+Engineer;Deep+Learning+Enthusiast;Agentic+AI+Developer;LLM+Engineer;.NET+Developer;React+Developer;FastAPI+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
+</a>
+
+<br />
+
+<img src="https://img.shields.io/badge/Status-Building_AI_Powered_Software-6C63FF?style=for-the-badge&logo=sparkles&logoColor=white" />
+<img src="https://img.shields.io/badge/Graduating-2027-informational?style=for-the-badge&logo=googlescholar&logoColor=white" />
+
+</div>
+
+<br />
+
+<!-- 📸 PROFILE IMAGE — add your photo here (optional, place file in /assets and update the path) -->
+<div align="center">
+  <img src="assets/profile.png" alt="Muhammad Talha" width="180" style="border-radius:50%;" />
+</div>
+
+<br />
+
+---
+
+<div align="center">
+
+### 🔗 Connect With Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://talhaportfolio-ruby.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talhaleet)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/talhaleet)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:talhaleet@gmail.com)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
-I'm **Muhammad Talha**, a passionate Software Engineering student at **Punjab University College of Information Technology (PUCIT), Lahore**. I thrive at the intersection of **Artificial Intelligence**, **Machine Learning**, and **Full Stack Development**, building intelligent systems that solve real-world problems.
+Full Stack AI Engineer in training, building at the intersection of intelligent systems and modern software engineering. I care about turning raw ideas — an ambiguous business problem, a messy dataset, a rough product concept — into working systems that ship: agentic pipelines that reason and act, APIs that hold up under real traffic, and interfaces people actually want to use. My curiosity keeps pulling me toward the same question — how do we make software that *thinks*, and thinks reliably — and that question is what drives everything I build.
 
-### 🎯 My Mission
-> "Building intelligent software through AI, scalable engineering, and continuous innovation"
-
-### 💡 What Drives Me
-- Crafting **AI-powered solutions** that make a difference
-- Mastering **Agentic AI** and autonomous systems
-- Building **scalable, production-ready** applications
-- Contributing to **open source** and the developer community
-- Continuous learning and **staying ahead** of technology trends
+- 🎓 BS Software Engineering @ Punjab University College of Information Technology (PUCIT) — Class of **2027**
+- 🤖 Currently focused on **Agentic AI**, **LLM Engineering**, and **Multi-Agent Systems**
+- 🛠️ Building **SkillNavigator AI** — an AI Career Intelligence Platform
+- 💬 Ask me about LangGraph, RAG pipelines, FastAPI, or .NET
+- ⚡ Fun fact: I enjoy debugging agents almost as much as building them
 
 ---
 
-## 🛠️ Technical Expertise
+## 🚀 Professional Introduction
 
-### 💻 Programming Languages
-<p align="center">
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-</p>
+I'm Muhammad Talha, a Full Stack AI Engineer who builds end-to-end — from the model layer to the pixels on screen. On the AI side, I work with LLMs, agentic frameworks like LangGraph and CrewAI, and retrieval-augmented generation to build systems that reason, plan, and act. On the software side, I build production-grade applications with React, FastAPI, and the .NET ecosystem, backed by solid API and database design.
 
-### 🎨 Frontend Development
-<p align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-</p>
-
-### ⚙️ Backend Development
-<p align="center">
-<img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-</p>
-
-### 🗄️ Databases
-<p align="center">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-</p>
-
-### ☁️ DevOps & Cloud
-<p align="center">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-</p>
-
-### 🛠️ Tools & Platforms
-<p align="center">
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-</p>
+What draws me to AI Engineering specifically is the shift from writing deterministic logic to designing systems that make decisions — architecting agents, evaluating their behavior, and getting them to work reliably in the real world. I'm most energized when a project forces me to combine both worlds: an intelligent core wrapped in software that's genuinely usable.
 
 ---
 
-## 🤖 Artificial Intelligence & Machine Learning
-
-### 🧠 Large Language Models (LLMs)
-- OpenAI GPT-4, GPT-3.5 Turbo
-- Google Gemini Pro
-- Claude AI
-- Hugging Face Transformers
-- Custom Fine-tuning
-- Prompt Engineering & Optimization
-
-### 🤖 Agentic AI
-- **Multi-Agent Systems**
-- **Autonomous AI Agents**
-- **AI Workflows & Orchestration**
-- **Tool & Function Calling**
-- **Agent Collaboration Patterns**
-- **Decision-Making Systems**
-
-### 🔗 LangChain Ecosystem
-- **LangChain Core** & Expression Language
-- **LangGraph** for Stateful Agents
-- **RAG Pipelines** & Vector Search
-- **Memory Management** & Persistence
-- **Retrieval Systems** & Knowledge Bases
-- **Chain-of-Thought** & Reasoning
-
-### ⚡ AI Frameworks
-- **CrewAI** - Multi-agent collaboration
-- **AutoGen** - Conversational AI agents
-- **Semantic Kernel** - Microsoft's AI framework
-- **OpenAI SDK** & Function Calling
-- **MCP** (Model Context Protocol)
-
-### 📊 Machine Learning
-- Supervised & Unsupervised Learning
-- Classification & Regression
-- Clustering & Dimensionality Reduction
-- Feature Engineering & Selection
-- Model Evaluation & Validation
-- Ensemble Methods
-
-### 📈 Data Science
-- Pandas & NumPy
-- Matplotlib & Seaborn
-- Scikit-Learn
-- Data Cleaning & Preprocessing
-- EDA & Visualization
-- Statistical Analysis
-
-### 🔤 Natural Language Processing (NLP)
-- Text Classification & Categorization
-- Sentiment Analysis
-- Named Entity Recognition
-- Semantic Search & Embeddings
-- Text Generation & Summarization
-- Vector Databases & Retrieval
-
-### 🚀 MLOps
-- Model Deployment & Serving
-- REST API Integration
-- Dockerized ML Applications
-- Model Monitoring & Logging
-- Experiment Tracking
-
----
-
-## 📁 Featured Projects
-
-### 🧠 AI Career Intelligence Platform
-> *AI-powered career guidance system for students*
-
-An intelligent platform that analyzes student profiles, identifies skill gaps, and generates personalized career roadmaps using advanced AI and NLP.
-
-**Key Features:**
-- 📄 Resume & Profile Analysis
-- 🎯 Skill Gap Detection
-- 🧭 Career Recommendations
-- 📚 Learning Path Generation
-- 💬 AI Chat Assistant
-- 📊 Market Trend Analysis
-- 🔮 Future Job Prediction
-
-**Tech Stack:**
-```
-Python | Machine Learning | NLP | OpenAI API | React | Flask | MySQL | LangChain
-```
-
----
-
-### 🍔 QuickFood - Food Delivery Platform
-> *Full-featured food ordering and delivery system*
-
-**Key Features:**
-- 🔐 Secure Authentication & Authorization
-- 🛒 Cart Management System
-- 📦 Order Tracking & History
-- 🍽️ Restaurant Management
-- 📊 Admin Dashboard
-- 💳 Payment Integration
-
-**Tech Stack:**
-```
-ASP.NET MVC | C# | SQL Server | Bootstrap | Entity Framework
-```
-
----
-
-### 👕 Trendora - E-Commerce Platform
-> *Modern online shopping experience*
-
-**Key Features:**
-- 🏷️ Product Catalog & Categories
-- 🛍️ Smart Shopping Cart
-- 👤 User Profiles & Authentication
-- 📦 Order Management
-- 🎯 Personalized Recommendations
-- 📈 Admin Panel & Analytics
-
-**Tech Stack:**
-```
-ASP.NET MVC | C# | SQL Server | Bootstrap | jQuery
-```
-
----
-
-### 📚 Library Management System
-> *Efficient library operations backend*
-
-**Key Features:**
-- 📖 Book Catalog Management
-- 🔄 Issue/Return System
-- 👥 User Management
-- 📊 Analytics Dashboard
-- 🔍 Advanced Search
-- 📱 REST APIs
-
-**Tech Stack:**
-```
-Node.js | Express | MySQL | JWT Authentication | REST APIs
-```
-
----
-
-### 🏫 School Management System
-> *Comprehensive educational administration platform*
-
-**Key Features:**
-- 👨‍🎓 Student Records Management
-- 📝 Attendance System
-- 💰 Fee Management
-- 📊 Result Processing
-- 👨‍🏫 Staff Management
-- 📅 Timetable Generation
-
-**Tech Stack:**
-```
-ASP.NET MVC | C# | SQL Server | Bootstrap | Entity Framework
-```
-
----
-
-### 💬 AI Chatbot
-> *Intelligent conversational AI assistant*
-
-**Key Features:**
-- 🧠 Advanced LLM Integration
-- 🔍 Context-Aware Responses
-- 💾 Memory Management
-- 🎯 Domain-Specific Knowledge
-- 🔗 Multi-Source Retrieval
-
-**Tech Stack:**
-```
-Python | OpenAI API | LangChain | Vector Search | React | FastAPI
-```
-
----
-
-
-
-
-## 🤝 Let's Connect
-
-<p align="center">
-<a href="https://github.com/talhaleet">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/talhaleet">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:talhaleet@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://mtalhaportflio.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-
-
-
+## 🤖 AI Engineering
 
 <div align="center">
 
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LLMs](https://img.shields.io/badge/Large_Language_Models-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6C63FF?style=for-the-badge&logo=sparkles&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-black?style=for-the-badge&logo=robotframework&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=graphql&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logo=probot&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-4B32C3?style=for-the-badge&logo=databricks&logoColor=white)
+![LLM Evaluation](https://img.shields.io/badge/LLM_Evaluation-2E8B57?style=for-the-badge&logo=checkmarx&logoColor=white)
+![Vector Databases](https://img.shields.io/badge/Vector_Databases-6E40C9?style=for-the-badge&logo=pinecone&logoColor=white)
+![AI Automation](https://img.shields.io/badge/AI_Automation-FF6D00?style=for-the-badge&logo=automattic&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Make.com](https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
+
+I build agentic pipelines with **LangGraph** and **CrewAI**, orchestrate multi-step reasoning, ground responses with **RAG** over vector stores, and evaluate agent behavior with **LangSmith**. On the automation side, I connect intelligent workflows with tools like **n8n**, **Make.com**, and **Zapier**, and expose all of it through clean, typed APIs with **FastAPI** and **Pydantic**.
+
 ---
 
-### ⭐ Thanks For Visiting My Profile
+## 💻 Full Stack Development
 
-<img src="https://komarev.com/ghpvc/?username=talhaleet&style=for-the-badge&color=00C2FF"/>
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🚀 Code • Learn • Build • Innovate • Repeat
+### ⚙️ Backend
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-**"The future is built by those who dare to innovate"**
+### 🗄️ Databases
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### 🔧 DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MLOps](https://img.shields.io/badge/MLOps-025E8C?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+---
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+**Languages**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Frameworks & Libraries**
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Pydantic](https://img.shields.io/badge/-Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+
+**AI Frameworks**
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square&logo=graphql&logoColor=white)
+![CrewAI](https://img.shields.io/badge/-CrewAI-FF4B4B?style=flat-square&logo=probot&logoColor=white)
+![LangSmith](https://img.shields.io/badge/-LangSmith-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+
+**Databases**
+![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+
+**Cloud & DevOps**
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**Development & Design Tools**
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧭 SkillNavigator AI
+**AI Career Intelligence Platform**
+
+Agentic career-guidance platform combining multi-agent orchestration with a full-stack web application.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square&logo=graphql&logoColor=white)
+![CrewAI](https://img.shields.io/badge/-CrewAI-FF4B4B?style=flat-square&logo=probot&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+[![GitHub](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](#)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](#)
+
+</td>
+<td width="50%" valign="top">
+
+### 🍔 QuickFood
+**Food Ordering Web Application**
+
+MVC-based food ordering platform with structured relational data handling.
+
+![ASP.NET MVC](https://img.shields.io/badge/-ASP.NET_MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+[![GitHub](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](#)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](#)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛍️ Trendora
+**E-Commerce Web Application**
+
+ASP.NET MVC-based storefront application with SQL Server-backed data management.
+
+![ASP.NET MVC](https://img.shields.io/badge/-ASP.NET_MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+[![GitHub](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](#)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](#)
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 Library Management System
+**Library Management Web App**
+
+Node.js/Express application for managing books, members, and lending records.
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+[![GitHub](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](#)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](#)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏫 School Management System
+**School Administration Web App**
+
+ASP.NET MVC application handling student, staff, and academic record management.
+
+![ASP.NET MVC](https://img.shields.io/badge/-ASP.NET_MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+[![GitHub](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](#)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](#)
+
+</td>
+<td width="50%" valign="top">
+
+<!-- Reserved for a future featured project -->
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎓 Education
+
+<div align="center">
+
+### Punjab University College of Information Technology (PUCIT)
+**Bachelor of Science in Software Engineering**
+📅 Expected Graduation: **2027**
+
+</div>
+
+---
+
+## 💼 Experience
+
+### Cloud & System Administration Intern
+**Xavor Corporation**
+
+- Gained hands-on exposure to cloud infrastructure and system administration practices in a professional enterprise environment
+- Supported day-to-day operational and administrative tasks across cloud-based systems
+- Strengthened foundational understanding of infrastructure reliability, configuration, and best practices that now inform how I design and deploy software
+
+---
+
+## 📜 Certifications
+
+<div align="center">
+
+| Provider | Status |
+|---|---|
+| 🟦 Microsoft Certifications | *Placeholder — add credential here* |
+| 🟨 Google Certifications | *Placeholder — add credential here* |
+| 🟩 DeepLearning.AI | *Placeholder — add credential here* |
+| 🟪 Coursera | *Placeholder — add credential here* |
+| ⭐ Future Certifications | *In progress* |
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**🔨 Currently Building**
+- SkillNavigator AI
+
+</td>
+<td valign="top" width="50%">
+
+**📖 Currently Learning**
+- Advanced Agentic AI
+- Multi-Agent Systems
+- LLM Evaluation
+- Docker
+- MLOps
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=talhaleet&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=talhaleet&theme=tokyonight&hide_border=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhaleet&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=talhaleet&theme=tokyo-night&hide_border=true" width="100%" />
+
+<br /><br />
+
+<img src="https://github-profile-trophy.vercel.app/?username=talhaleet&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10" width="100%" />
+
+<br />
+
+<!-- 🐍 Contribution Snake — requires GitHub Action setup, placeholder path shown below -->
+<img src="assets/github-contribution-grid-snake.svg" alt="Contribution Snake animation" width="100%" />
+
+<br /><br />
+
+![Visitor Count](https://komarev.com/ghpvc/?username=talhaleet&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬
+
+> *"Building intelligent software that transforms ideas into real-world impact."*
+
+<br />
+
+**Thanks for stopping by — let's build something intelligent together.** 🚀
 
 </div>
