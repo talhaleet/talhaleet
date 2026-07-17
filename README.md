@@ -31,8 +31,8 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://talhaportfolio-ruby.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talhaleet)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/talhaleet)
+[![Resume](https://img.shields.io/badge/Resume-EA4335?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://www.dropbox.com/scl/fi/d8mhtmcqb805bbm1mgtlm/Muhammad_Talha_Resume.pdf?rlkey=mdxk9fwbbfygr4xo5o674mmfi&st=ptae8gsn&dl=0)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:talhaleet@gmail.com)
-[![Resume](https://www.dropbox.com/scl/fi/d8mhtmcqb805bbm1mgtlm/Muhammad_Talha_Resume.pdf?rlkey=mdxk9fwbbfygr4xo5o674mmfi&st=ptae8gsn&dl=0)
 
 </div>
 
