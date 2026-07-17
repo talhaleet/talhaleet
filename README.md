@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 🖼️ BANNER IMAGE — replace with your own banner -->
-<img src="assets/banner.png" alt="Muhammad Talha - Full Stack AI Engineer Banner" width="100%" />
+<img src="banner.jpeg" alt="Muhammad Talha - Full Stack AI Engineer Banner" width="100%" />
 
 <br />
 
@@ -22,7 +22,7 @@
 
 <!-- 📸 PROFILE IMAGE — add your photo here (optional, place file in /assets and update the path) -->
 <div align="center">
-  <img src="assets/profile.png" alt="Muhammad Talha" width="180" style="border-radius:50%;" />
+  <img src="profile.png" alt="Muhammad Talha" width="180" style="border-radius:50%;" />
 </div>
 
 <br />
@@ -284,32 +284,6 @@ ASP.NET MVC application handling student, staff, and academic record management.
 
 ---
 
-## 💼 Experience
-
-### Cloud & System Administration Intern
-**Xavor Corporation**
-
-- Gained hands-on exposure to cloud infrastructure and system administration practices in a professional enterprise environment
-- Supported day-to-day operational and administrative tasks across cloud-based systems
-- Strengthened foundational understanding of infrastructure reliability, configuration, and best practices that now inform how I design and deploy software
-
----
-
-## 📜 Certifications
-
-<div align="center">
-
-| Provider | Status |
-|---|---|
-| 🟦 Microsoft Certifications | *Placeholder — add credential here* |
-| 🟨 Google Certifications | *Placeholder — add credential here* |
-| 🟩 DeepLearning.AI | *Placeholder — add credential here* |
-| 🟪 Coursera | *Placeholder — add credential here* |
-| ⭐ Future Certifications | *In progress* |
-
-</div>
-
----
 
 ## 🎯 Current Focus
 
@@ -336,44 +310,12 @@ ASP.NET MVC application handling student, staff, and academic record management.
 
 ---
 
-## 📊 GitHub Stats
+
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=talhaleet&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=talhaleet&theme=tokyonight&hide_border=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhaleet&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=talhaleet&theme=tokyo-night&hide_border=true" width="100%" />
-
-<br /><br />
-
-<img src="https://github-profile-trophy.vercel.app/?username=talhaleet&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10" width="100%" />
-
-<br />
-
-<!-- 🐍 Contribution Snake — requires GitHub Action setup, placeholder path shown below -->
-<img src="assets/github-contribution-grid-snake.svg" alt="Contribution Snake animation" width="100%" />
-
-<br /><br />
-
-![Visitor Count](https://komarev.com/ghpvc/?username=talhaleet&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS)
-
-</div>
-
----
-
-<div align="center">
-
-### 💬
-
+### 
 > *"Building intelligent software that transforms ideas into real-world impact."*
-
 <br />
-
 **Thanks for stopping by — let's build something intelligent together.** 🚀
-
 </div>
