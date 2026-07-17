@@ -18,12 +18,7 @@
 
 </div>
 
-<br />
 
-<!-- 📸 PROFILE IMAGE — add your photo here (optional, place file in /assets and update the path) -->
-<div align="center">
-  <img src="profile.png" alt="Muhammad Talha" width="180" style="border-radius:50%;" />
-</div>
 
 <br />
 
