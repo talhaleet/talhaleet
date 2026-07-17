@@ -245,6 +245,8 @@ Node.js/Express application for managing books, members, and lending records.
 <tr>
 <td width="50%" valign="top">
 
+
+
 ### 🏫 School Management System
 **School Administration Web App**
 
@@ -258,6 +260,25 @@ ASP.NET MVC application handling student, staff, and academic record management.
 
 </td>
 <td width="50%" valign="top">
+
+### 🎓 TutorHub
+**AI-Powered Tutor Booking Platform**
+
+Full-stack tutor booking platform enabling students and parents to discover tutors, schedule sessions, chat in real time, and receive personalized assistance through an integrated AI assistant.
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![.NET Web API](https://img.shields.io/badge/-.NET_Web_API-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![AI](https://img.shields.io/badge/-AI_Assistant-FF6F00?style=flat-square&logo=openai&logoColor=white)
+
+[![GitHub](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](#)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](#)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 
 <!-- Reserved for a future featured project -->
 
